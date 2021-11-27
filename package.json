@@ -1,0 +1,10 @@
+{
+  "name": "instagram-follower-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.2.0",
+    "puppeteer": "^11.0.0"
+  }
+}
